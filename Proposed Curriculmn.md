@@ -1,0 +1,15 @@
+
+- https://jobs.ashbyhq.com/PrimeIntellect/bbfe94a6-d1a8-47e9-86af-f117277cdacb
+- https://job-boards.greenhouse.io/anthropic/jobs/5183052008
+- https://jobs.ashbyhq.com/PrimeIntellect/afa6079a-5a35-4f90-ba88-780e4d36112f
+- https://jobs.ashbyhq.com/PrimeIntellect/73f42d73-f967-4082-b599-b8914135a6b3
+- https://openai.com/careers/research-engineer-frontier-evals-and-environments-san-francisco/
+- https://openai.com/careers/research-engineerresearch-scientist-rlreasoning-san-francisco/
+- https://openai.com/careers/researcher-synthetic-rl-san-francisco/
+- Fundamentals of RL/foundational skills
+	-  Core RL concepts, post-training recipes, reward signals, RL environments, training dynamics, and alignment/capability improvement.
+- A strong grasp of probability, statistics, and ML fundamentals. 
+- distinguish between real effects, noise, and bugs.
+- Understanding how large models are trained, fine-tuned, evaluated, post-trained, and improved in production.
+- Building evaluation harnesses, measuring model behavior, designing reliable graders, analyzing variance/reliability, and creating domain-specific evals.
+- Writing production-quality Python, working inside ML codebases, building pipelines, debugging training, and implementing research ideas quickly.
