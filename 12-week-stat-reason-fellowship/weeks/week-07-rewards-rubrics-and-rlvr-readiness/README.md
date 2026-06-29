@@ -25,6 +25,16 @@ Understand rewards, rubrics, verifiers, exploration, credit assignment, reward h
 - GSPO paper abstract and introduction.
   - https://arxiv.org/abs/2507.18071
 
+## Three-author loop
+
+Create `project/reports/week-07-three-author-notes.md`.
+
+- Concept: rewards, rubrics, credit assignment, reward hacking, and RLVR suitability.
+- Primary source: Prime Intellect Verifiers rubrics, rewards, and training docs.
+- Second author: Sutton and Barto Chapter 2 plus David Silver lectures on value and control.
+- Applied source: Hugging Face TRL reward function docs and the DAPO or GSPO introductions.
+- Final check: explain why a reward can be easy to compute and still teach the wrong behavior.
+
 ## Project exercises
 
 Create `project/reports/week-07-reward-checklist.md`.
@@ -52,6 +62,7 @@ Create `project/reports/week-07-rlvr-suitability.md`.
 - Reward and verifier checklist grounded in Prime Verifiers.
 - 5 reviewed Prime reward or rubric designs.
 - RLVR suitability note.
+- `project/reports/week-07-three-author-notes.md`.
 
 ## Mastery check
 

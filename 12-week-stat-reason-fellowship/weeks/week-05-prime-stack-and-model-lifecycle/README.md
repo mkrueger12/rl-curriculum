@@ -28,6 +28,16 @@ Understand how large models are trained, fine-tuned, evaluated, post-trained, an
 - Direct Preference Optimization abstract and introduction.
   - https://arxiv.org/abs/2305.18290
 
+## Three-author loop
+
+Create `project/reports/week-05-three-author-notes.md`.
+
+- Concept: the model lifecycle, including pretraining, supervised fine-tuning, preference tuning, evals, verifiers, and RLVR.
+- Primary source: Prime framework guide and Prime Intellect docs.
+- Second author: RLHF Book overview chapters.
+- Applied source: DeepSeek-R1 and DPO introductions, used to compare verifier-based and preference-based feedback.
+- Final check: explain where `StatReasonGym` fits in the lifecycle and what artifact each stage produces.
+
 ## Project exercises
 
 Create `project/reports/week-05-model-lifecycle.md`.
@@ -56,6 +66,7 @@ Create `project/reports/week-05-post-training-comparison.md`.
 - A one-page Prime tool map for the project.
 - A one-page RLHF/DPO/RLVR comparison.
 - A list of eval-gaming risks for `StatReasonGym`.
+- `project/reports/week-05-three-author-notes.md`.
 
 ## Mastery check
 

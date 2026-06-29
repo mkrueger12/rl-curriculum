@@ -24,6 +24,16 @@ Run one small Prime eval improvement loop without fooling yourself or optimizing
 - Hugging Face async RL training landscape, skim for systems orientation.
   - https://huggingface.co/blog/async-rl-training-landscape
 
+## Three-author loop
+
+Create `project/reports/week-11-three-author-notes.md`.
+
+- Concept: improvement loops, held-out comparisons, reward hacking checks, and training readiness.
+- Primary source: Prime Intellect Verifiers training guide and prime-rl overview.
+- Second author: RLHF Book chapters on reward modeling, preference tuning, or verifier-based methods.
+- Applied source: Hugging Face async RL training landscape and your before-and-after eval artifacts.
+- Final check: explain why the improvement is real, unclear, or only an easier eval.
+
 ## Project exercises
 
 Create `project/reports/week-11-improvement-plan.md`.
@@ -53,6 +63,7 @@ Create `project/reports/week-11-training-readiness.md`.
 - Before and after results with uncertainty.
 - Reward-hacking inspection note.
 - Training-readiness memo.
+- `project/reports/week-11-three-author-notes.md`.
 
 ## Mastery check
 

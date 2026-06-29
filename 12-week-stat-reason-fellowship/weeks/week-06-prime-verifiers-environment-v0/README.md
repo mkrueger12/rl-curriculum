@@ -21,6 +21,16 @@ Learn the basic RL frame by building the first Prime Verifiers environment for `
 - Prime framework guide.
   - ../../prime-intellect-framework.md
 
+## Three-author loop
+
+Create `project/reports/week-06-three-author-notes.md`.
+
+- Concept: agent, environment, state, action, terminal condition, reward, and verifier.
+- Primary source: Sutton and Barto, Chapters 1 and 3.
+- Second author: David Silver and Hugging Face Deep RL explanations of the agent/environment frame.
+- Applied source: Prime Intellect Verifiers environment docs and your first `load_environment()` implementation.
+- Final check: explain what makes a normal statistics problem become a scoreable environment.
+
 ## Project exercises
 
 Initialize the Prime environment.
@@ -48,6 +58,7 @@ Write `project/reports/week-06-environment-spec.md`.
 
 - A runnable Prime Verifiers environment v0 with 2-3 tasks.
 - `StatReasonGym` environment spec v0, including dataset, harness, rubric, reward, and trace fields.
+- `project/reports/week-06-three-author-notes.md`.
 
 ## Mastery check
 

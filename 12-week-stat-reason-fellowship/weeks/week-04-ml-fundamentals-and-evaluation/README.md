@@ -16,6 +16,16 @@ Connect statistics to machine learning: loss, generalization, train/test splits,
 - Dive into Deep Learning, introductory sections on data, linear models, and basic optimization.
   - https://d2l.ai/
 
+## Three-author loop
+
+Create `project/reports/week-04-three-author-notes.md`.
+
+- Concept: loss, generalization, train/test splits, overfitting, and misleading metrics.
+- Primary source: Google Machine Learning Crash Course modules for the weekly topics.
+- Second author: Dive into Deep Learning sections on data, linear models, and optimization.
+- Applied source: your toy model evaluation notebook and leakage demonstration.
+- Final check: explain what a metric proves, what it does not prove, and where uncertainty enters.
+
 ## Project exercises
 
 Create `project/notebooks/week-04-model-evaluation.*`.
@@ -37,6 +47,7 @@ Create `project/tasks/week-04-ml-eval-tasks.md`.
 - A short model evaluation note.
 - 3 draft tasks about model metrics, overfitting, or train/test leakage.
 - A leakage or overfitting demonstration.
+- `project/reports/week-04-three-author-notes.md`.
 
 ## Mastery check
 
