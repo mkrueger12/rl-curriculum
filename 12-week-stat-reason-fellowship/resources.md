@@ -2,6 +2,10 @@
 
 This file lists the main resources used by the fellowship. Prefer official course pages, author pages, and public repositories.
 
+## How to use these resources
+
+Use the resources as a source pool for the three-author loop, not as a completion checklist. For each weekly concept, pick one primary source, one alternate teacher, and one applied source. Stop when you can explain the concept in your own words and use it in the weekly artifact.
+
 ## Probability and statistics
 
 - Harvard Stat 110: https://stat110.hsites.harvard.edu/
