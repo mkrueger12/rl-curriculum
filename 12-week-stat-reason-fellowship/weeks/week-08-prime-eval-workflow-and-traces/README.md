@@ -27,6 +27,16 @@ Make the project reproducible in the Prime workflow. A result should be traceabl
   - https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
 - If you have A Philosophy of Software Design, read the early chapters on complexity and deep modules.
 
+## Three-author loop
+
+Create `project/reports/week-08-three-author-notes.md`.
+
+- Concept: reproducibility, traceability, testing, and maintainable eval artifacts.
+- Primary source: Prime Intellect Verifiers evaluation guide.
+- Second author: Anthropic's evals guide and Software Engineering at Google testing chapters.
+- Applied source: your first Prime eval run, run schema, and inspected traces.
+- Final check: explain how a future reader can reproduce one score and inspect the failed attempts behind it.
+
 ## Project exercises
 
 Create `project/reports/week-08-run-schema.md`.
@@ -50,6 +60,7 @@ Run the smoke eval.
 - First local Prime eval run.
 - Invariant list for task and run data.
 - Metric definitions for baseline and final report.
+- `project/reports/week-08-three-author-notes.md`.
 
 ## Mastery check
 

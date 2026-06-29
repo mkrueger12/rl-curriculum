@@ -16,6 +16,16 @@ Rebuild probability as a language for uncertainty, not as a bag of formulas.
 - Stat 110 strategic practice for the same topics.
   - https://stat110.hsites.harvard.edu/strategic-practice-problems
 
+## Three-author loop
+
+Create `project/reports/week-01-three-author-notes.md`.
+
+- Concept: sample spaces, events, independence, and simulation error.
+- Primary source: Blitzstein and Hwang, `Introduction to Probability`, Chapters 1-2.
+- Second author: Harvard Stat 110 lecture explanations and strategic practice notes.
+- Applied source: your Monte Carlo notebook, where exact answers and simulated estimates disagree at small sample sizes.
+- Final check: explain when simulation is evidence and when it is only a debugging tool.
+
 ## Project exercises
 
 Create `project/notebooks/week-01-probability-simulation.*`.
@@ -38,6 +48,7 @@ Create `project/tasks/week-01-task-ideas.md`.
 - A notebook or script with simulations.
 - A one-page note with 5 task ideas and scoring notes.
 - A short note naming the 2 strongest task candidates.
+- `project/reports/week-01-three-author-notes.md`.
 
 ## Mastery check
 

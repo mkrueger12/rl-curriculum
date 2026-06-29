@@ -26,9 +26,25 @@ The curriculum was refreshed on 2026-06-23. The main update is that modern langu
 ## Weekly rhythm
 
 - 90-150 minutes watching.
-- 90-150 minutes reading.
+- 90-150 minutes reading through the three-author loop.
 - 2-3 hours building, solving exercises, or writing.
 - 30 minutes for the weekly mastery check.
+
+## Three-author loop
+
+For each core concept, read or watch three explanations before treating the idea as learned:
+
+1. Primary source: the week's main course, book chapter, paper, or official documentation.
+2. Second author: a different teacher who explains the same concept with different notation, examples, or assumptions.
+3. Third author: an applied source, implementation guide, paper, blog post, or codebase that shows the concept in use.
+
+Keep the loop short. The goal is not to triple the reading load; it is to prevent one author's framing from becoming your only mental model. Each week should produce a `project/reports/week-XX-three-author-notes.md` note with:
+
+- The concept being triangulated.
+- The three sources used.
+- One thing each author made clearer than the others.
+- One disagreement, vocabulary difference, or framing difference.
+- The final version of the concept in your own words.
 
 The project rule is strict: a task does not enter `StatReasonGym` until it has a verifier and a reference solution. If it cannot be scored, it can still be useful reading or discussion, but it is not an environment.
 

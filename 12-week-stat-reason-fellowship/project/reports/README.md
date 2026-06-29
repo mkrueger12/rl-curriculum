@@ -2,5 +2,6 @@
 
 Use this folder for report drafts, figures, and the final writeup.
 
-The final report should follow `../final-report-template.md`.
+Use `three-author-notes-template.md` for the weekly three-author loop notes.
 
+The final report should follow `../final-report-template.md`.

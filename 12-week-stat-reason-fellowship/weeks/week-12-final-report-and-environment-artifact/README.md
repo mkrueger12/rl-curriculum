@@ -19,6 +19,16 @@ Turn the work into a public-quality artifact: clear question, method, results, f
 - Current field notes.
   - ../../current-field-notes.md
 
+## Three-author loop
+
+Create `project/reports/week-12-three-author-notes.md`.
+
+- Concept: final claims, reproducibility, limitations, and public artifact quality.
+- Primary source: your final report template and current field notes.
+- Second author: Software Engineering at Google documentation, testing, or code review chapters.
+- Applied source: the Prime framework guide, final eval command, raw baseline outputs, and environment README.
+- Final check: explain the project's main claim in plain language, then name the weakest evidence behind it.
+
 ## Project exercises
 
 Create `project/reports/final-report.md`.
@@ -42,6 +52,7 @@ Package the artifact.
 - Final report.
 - Prime environment demo or reproducibility instructions.
 - Clean task suite and baseline results.
+- `project/reports/week-12-three-author-notes.md`.
 
 ## Mastery check
 

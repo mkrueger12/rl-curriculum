@@ -20,6 +20,16 @@ Build the first real task suite and make every task scoreable.
   - https://github.com/openai/evals
   - https://inspect.aisi.org.uk/
 
+## Three-author loop
+
+Create `project/reports/week-09-three-author-notes.md`.
+
+- Concept: task-suite coverage, task quality, verifier reliability, and share readiness.
+- Primary source: Prime Intellect Verifiers environment docs.
+- Second author: Anthropic's evals guide on task selection and graders.
+- Applied source: OpenAI Evals, Inspect AI, and your own task coverage table as comparison points.
+- Final check: explain why each task measures statistical reasoning rather than formatting or prompt compliance.
+
 ## Project exercises
 
 Expand the Prime environment.
@@ -48,6 +58,7 @@ Prepare for sharing.
 - 10-15 verified tasks in the Prime environment.
 - A task coverage table.
 - A share-readiness note.
+- `project/reports/week-09-three-author-notes.md`.
 
 ## Mastery check
 

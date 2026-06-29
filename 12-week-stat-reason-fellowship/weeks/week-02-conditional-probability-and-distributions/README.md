@@ -16,6 +16,16 @@ Get comfortable with conditional probability, Bayes' rule, random variables, exp
 - Introduction to Probability, Chapters 3-4.
   - https://probabilitybook.net/
 
+## Three-author loop
+
+Create `project/reports/week-02-three-author-notes.md`.
+
+- Concept: conditional probability, Bayes' rule, expectation, variance, and distribution choice.
+- Primary source: Blitzstein and Hwang, `Introduction to Probability`, Chapters 3-4.
+- Second author: StatQuest explanations for the distribution families you use.
+- Applied source: your distribution generators and Bayes' rule example.
+- Final check: explain how the same scenario changes when you model it with the wrong distribution.
+
 ## Project exercises
 
 Create `project/notebooks/week-02-distributions.*`.
@@ -36,6 +46,7 @@ Create `project/tasks/week-02-distribution-tasks.md`.
 - 2 verified distribution tasks.
 - A short note explaining when simulation is useful and when exact calculation is better.
 - A malformed-answer example for each verified task.
+- `project/reports/week-02-three-author-notes.md`.
 
 ## Mastery check
 

@@ -16,6 +16,16 @@ Learn how to decide whether an observed effect is likely to be real, noise, or a
 - Evan Miller's A/B testing tools and explanations.
   - https://www.evanmiller.org/ab-testing/
 
+## Three-author loop
+
+Create `project/reports/week-03-three-author-notes.md`.
+
+- Concept: confidence intervals, p-values, power, false positives, and false negatives.
+- Primary source: OpenIntro Statistics sections on inference.
+- Second author: StatQuest explanations for confidence intervals, p-values, hypothesis tests, and power.
+- Applied source: Evan Miller's A/B testing explanations and calculator behavior.
+- Final check: explain why "no effect" and "not enough evidence" are different claims.
+
 ## Project exercises
 
 Create `project/tasks/week-03-inference-tasks.md`.
@@ -35,6 +45,7 @@ Create `project/reports/week-03-inference-glossary.md`.
 
 - First 3 verified `StatReasonGym` tasks.
 - A small glossary of alpha, power, p-value, confidence interval, and minimum detectable effect.
+- `project/reports/week-03-three-author-notes.md`.
 
 ## Mastery check
 

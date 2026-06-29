@@ -20,6 +20,16 @@ Run a Prime eval baseline, measure uncertainty, inspect traces, and turn failure
 - Optional: Causal Inference for the Brave and True, early chapters on causality and bias.
   - https://matheusfacure.github.io/python-causality-handbook/
 
+## Three-author loop
+
+Create `project/reports/week-10-three-author-notes.md`.
+
+- Concept: baseline measurement, uncertainty, repeated trials, failure taxonomy, and rubric bugs.
+- Primary source: Prime Intellect Verifiers evaluation guide.
+- Second author: OpenIntro Statistics sections on confidence intervals and comparing groups.
+- Applied source: Anthropic's eval guidance and your failed Prime eval traces.
+- Final check: explain what the baseline can and cannot support as a claim.
+
 ## Project exercises
 
 Create `project/runs/week-10-baseline/`.
@@ -43,6 +53,7 @@ Create `project/reports/week-10-error-analysis.md`.
 - Variance and repeated-trial note.
 - Error taxonomy with examples.
 - Rubric-bug list, if any.
+- `project/reports/week-10-three-author-notes.md`.
 
 ## Mastery check
 
